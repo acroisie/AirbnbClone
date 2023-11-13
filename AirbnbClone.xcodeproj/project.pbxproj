@@ -19,6 +19,7 @@
 		5198C03B2B02208E004FC75D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5198C03D2B02208F004FC75D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5198C0402B02208F004FC75D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		5198C0472B0223A8004FC75D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +53,7 @@
 			isa = PBXGroup;
 			children = (
 				5198C0392B02208E004FC75D /* AirbnbCloneApp.swift */,
+				5198C0472B0223A8004FC75D /* README.md */,
 				5198C03B2B02208E004FC75D /* ContentView.swift */,
 				5198C03D2B02208F004FC75D /* Assets.xcassets */,
 				5198C03F2B02208F004FC75D /* Preview Content */,
