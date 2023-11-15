@@ -16,6 +16,7 @@
 		5198C0412B02208F004FC75D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5198C0402B02208F004FC75D /* Preview Assets.xcassets */; };
 		5198C0562B022ABC004FC75D /* ExploreView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5198C0552B022ABC004FC75D /* ExploreView.swift */; };
 		5198C0582B0251C5004FC75D /* ListingItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5198C0572B0251C5004FC75D /* ListingItemView.swift */; };
+		51B30C1C2B0386D900EA3BB5 /* DestinationSearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51B30C1B2B0386D900EA3BB5 /* DestinationSearchView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		5198C0472B0223A8004FC75D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		5198C0552B022ABC004FC75D /* ExploreView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExploreView.swift; sourceTree = "<group>"; };
 		5198C0572B0251C5004FC75D /* ListingItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListingItemView.swift; sourceTree = "<group>"; };
+		51B30C1B2B0386D900EA3BB5 /* DestinationSearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DestinationSearchView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -140,6 +142,7 @@
 			children = (
 				5198C0552B022ABC004FC75D /* ExploreView.swift */,
 				518FC4862B026DE000084D31 /* SearchAndFilterBar.swift */,
+				51B30C1B2B0386D900EA3BB5 /* DestinationSearchView.swift */,
 			);
 			path = Explore;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5198C03C2B02208E004FC75D /* ContentView.swift in Sources */,
+				51B30C1C2B0386D900EA3BB5 /* DestinationSearchView.swift in Sources */,
 				5198C0582B0251C5004FC75D /* ListingItemView.swift in Sources */,
 				5198C0562B022ABC004FC75D /* ExploreView.swift in Sources */,
 				518FC4872B026DE000084D31 /* SearchAndFilterBar.swift in Sources */,
@@ -398,6 +402,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"AirbnbClone/Preview Content\"";
+				DEVELOPMENT_TEAM = QHS334PD33;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -426,6 +431,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"AirbnbClone/Preview Content\"";
+				DEVELOPMENT_TEAM = QHS334PD33;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
