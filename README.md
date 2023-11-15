@@ -29,4 +29,4 @@ This SwiftUI Airbnb Clone project is designed for educational purposes, providin
 
 ## Tutorial
 
-Check out the tutorial video [here](https://www.youtube.com/embed/-ad4qLKep3U?si=6wczk58U7AAP_aUk) for a step-by-step guide on building this SwiftUI Airbnb Clone.
+Check out the tutorial video from AppStuff [here](https://www.youtube.com/embed/-ad4qLKep3U?si=6wczk58U7AAP_aUk) for a step-by-step guide on building this SwiftUI Airbnb Clone.
