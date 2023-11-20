@@ -6,9 +6,6 @@ This SwiftUI Airbnb Clone project is designed for educational purposes, providin
 
 - Home screen with listings
 - Detailed view for each listing
-- Basic search functionality
-- User authentication (basic)
-- and more...
 
 ## Getting Started
 
